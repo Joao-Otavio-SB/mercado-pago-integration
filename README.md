@@ -1,1 +1,1 @@
-# mercado-pago-integration
+# API de integração com mercado pago
